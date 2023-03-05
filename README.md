@@ -1,2 +1,3 @@
 # Pokedex
-This is a Pokedex created using HTML, CSS, JS and an API.
+
+Welcome to my Pokemon website! Designed with HTML, CSS, and JavaScript, Explore the extensive catalog of Pokémons, learn about their abilities and strengths.
